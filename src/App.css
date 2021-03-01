@@ -2,9 +2,21 @@
   text-align: center;
 }
 
+.login{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fondo{
+  background: #39476C;
+}
+
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
+  align-items: center;
+  justify-content: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
