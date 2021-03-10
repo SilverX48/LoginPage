@@ -2,12 +2,6 @@
   text-align: center;
 }
 
-.login{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .fondo{
   background: #39476C;
 }
